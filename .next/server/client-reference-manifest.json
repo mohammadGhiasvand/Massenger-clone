@@ -139,22 +139,6 @@
       ],
       "async": false
     },
-    "/home/moha/web_projects/FullStack/Massenger-clone/node_modules/next/font/google/target.css?{\"path\":\"app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}": {
-      "id": "(app-client)/./node_modules/next/font/google/target.css?{\"path\":\"app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
-      "name": "*",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
-    "/home/moha/web_projects/FullStack/Massenger-clone/app/globals.css": {
-      "id": "(app-client)/./app/globals.css",
-      "name": "*",
-      "chunks": [
-        "app/layout:static/chunks/app/layout.js"
-      ],
-      "async": false
-    },
     "/home/moha/web_projects/FullStack/Massenger-clone/node_modules/next/dist/client/image-component.js": {
       "id": "(app-client)/./node_modules/next/dist/client/image-component.js",
       "name": "*",
@@ -178,12 +162,28 @@
         "app/(site)/page:static/chunks/app/(site)/page.js"
       ],
       "async": false
+    },
+    "/home/moha/web_projects/FullStack/Massenger-clone/node_modules/next/font/google/target.css?{\"path\":\"app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}": {
+      "id": "(app-client)/./node_modules/next/font/google/target.css?{\"path\":\"app/layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "/home/moha/web_projects/FullStack/Massenger-clone/app/globals.css": {
+      "id": "(app-client)/./app/globals.css",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
     }
   },
   "entryCSSFiles": {
+    "/home/moha/web_projects/FullStack/Massenger-clone/app/(site)/page": [],
     "/home/moha/web_projects/FullStack/Massenger-clone/app/layout": [
       "static/css/app/layout.css"
-    ],
-    "/home/moha/web_projects/FullStack/Massenger-clone/app/(site)/page": []
+    ]
   }
 }
